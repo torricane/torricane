@@ -1,7 +1,7 @@
 ![Header](https://github.com/torricane/torricane/blob/main/assets/header.JPG)
 
 ## My CV
-[Link to my CV](https://drive.google.com/file/d/1HaeXlUL-Wttj7Vw5niHmE1ggbuYMVVBs/view?usp=sharing/)
+[Link to my CV](https://torricane.github.io/Web-Resume/)
 
 ## Testing Documentation
 
