@@ -1,4 +1,4 @@
-![Header](https://github.com/torricane/torricane/blob/main/assets/header.JPG)
+![Header](https://github.com/torricane/torricane/blob/main/assets/header.PNG)
 
 ## My CV
 [Link to my CV](https://torricane.github.io/Web-Resume/)
